@@ -24,7 +24,7 @@ Main features:
 == Installation ==
 1. Upload plugin folder to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the "Plugins" menu in WordPress.
-3. Visit settings through "Grid Button Text" (LearnDash - LMS submenu) link.
+3. Visit settings through "Grid Button" (LearnDash - LMS submenu) link.
 
 
 == Frequently Asked Questions ==
