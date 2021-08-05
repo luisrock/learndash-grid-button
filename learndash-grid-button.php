@@ -5,7 +5,7 @@
  * Description: Grid Button for Learndash is the ultimate way to define custom texts and styles for courses buttons on the LearnDash Course Grid.
  * Author: Luis Rock
  * Author URI: https://wptrat.com/
- * Version: 1.0.0
+ * Version: 1.0.1
  * Text Domain: trgb-grid-button
  * Domain Path: /languages
  * License: GNU General Public License v3.0

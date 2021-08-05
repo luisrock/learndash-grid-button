@@ -800,8 +800,4 @@ function trgb_admin_page() {
     </form>
     <!-- </div>  -->
 </div> <!-- end trgb-wrap-grid -->
-<?php } ?>
-
-
-
-
+<?php }

@@ -4,7 +4,7 @@ Tags: learndash, education, elearning, lms, learning
 Requires at least: 5.0
 Tested up to: 5.7
 Requires PHP: 5.6
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GNU General Public License v3.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -47,5 +47,17 @@ That's the goal, but we cannot be sure. There are so many themes! If you have an
 4. Frontend demo
 
 == Changelog ==
+= 1.0.1 = 
+* Fix 'unexpected output characters during activation' notice.
+
+= 1.0.0 = 
+* Initial Release.
+
+ 
+== Upgrade Notice ==
+ 
+= 1.0.1 =
+* Fix 'unexpected output characters during activation' notice.
+ 
 = 1.0.0 = 
 * Initial Release.
